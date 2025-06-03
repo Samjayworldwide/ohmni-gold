@@ -23,7 +23,7 @@ const boardOfDirectorsData = [
   {
     photo:
       "https://i.postimg.cc/wBz89bGw/Whats-App-Image-2025-06-01-at-09-47-37.jpg",
-    name: "Mr. Okenna Mmbazurike",
+    name: "Mr. Okenna Onwuzurumba",
     role: "Business Development Manager",
   },
   {
