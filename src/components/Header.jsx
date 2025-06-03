@@ -4,7 +4,7 @@ const Header = () => {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
 
   return (
-    <section id="home" className="relative pb-20 ">
+    <section id="home" className="relative pb-20">
       <div className="container mx-auto overflow-hidden">
         <div className="relative z-20 flex items-center justify-between px-4 py-5 bg-transparent">
           <div className="w-auto">

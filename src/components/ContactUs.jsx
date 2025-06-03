@@ -37,7 +37,7 @@ const ContactUs = () => {
         <div className="flex flex-col mb-5 justify-center items-center text-white pt-5">
           <i className="bi bi-building-fill"></i>
           <p>
-            <strong>Address: </strong>8 Iro Dan Musa street Asokoro Abuja
+            <strong>Address: </strong>plot 225 Kugbo cadastral Abuja
           </p>
         </div>
         <hr className="text-white"></hr>

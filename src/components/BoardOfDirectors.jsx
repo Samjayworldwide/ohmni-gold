@@ -3,8 +3,8 @@ import React from "react";
 const boardOfDirectorsData = [
   {
     photo:
-      "https://i.postimg.cc/3xW0qJVv/Whats-App-Image-2025-05-29-at-14-10-01.jpg",
-    name: "Dr Sam Iheanyichukwu Ohuabunwa, OFR",
+      "https://i.postimg.cc/52yvBwbS/Whats-App-Image-2025-06-03-at-15-23-40.jpg",
+    name: "Dr Sam Iheanyichukwu Ohuabunwa, OFR,MON,NPOM,KSC",
     role: "Chairman Board of Directors",
   },
   {
