@@ -137,7 +137,7 @@ const Header = () => {
                     <li className="mb-12 last:mb-0">
                       <a
                         className="font-medium hover:text-red-700 text-[#2c2f73] text-2xl"
-                        href="#bout"
+                        href="#about"
                       >
                         About Us
                       </a>
