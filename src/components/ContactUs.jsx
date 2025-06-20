@@ -17,7 +17,7 @@ const ContactUs = () => {
           </button>
         </div>
         <p className="mb-9 text-white text-center font-medium leading-relaxed">
-          Trusted by 100+ construction experts
+          Trusted by 100+ industry experts
         </p>
         <div className="flex flex-col mb-5 justify-center items-center text-white">
           <i className="bi bi-envelope-fill mr-2"></i>
@@ -31,13 +31,17 @@ const ContactUs = () => {
           <p className="flex flex-col">
             <strong>Call: </strong>08062062681
             <p>09096399103</p>
+            <p>+33619436059</p>
           </p>
         </div>
         <hr className="text-white"></hr>
         <div className="flex flex-col mb-5 justify-center items-center text-white pt-5">
           <i className="bi bi-building-fill"></i>
-          <p>
-            <strong>Address: </strong>plot 225 Kugbo cadastral Abuja
+          <p className="flex flex-col items-center">
+            <strong>Nigerian Office Address: </strong>plot 225 Kugbo cadastral
+            Abuja
+            <strong className="pt-5">European Office Address: </strong>8, rue
+            Mathias Edel, Mittelhausbergen, 67206, France
           </p>
         </div>
         <hr className="text-white"></hr>

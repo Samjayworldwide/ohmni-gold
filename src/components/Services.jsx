@@ -10,22 +10,23 @@ const servicesData = [
       "Consulting",
       "Technical services",
       "Infrastructure",
-      "Geo-physics and geology services",
+      "Geology services",
       "Digital and transformations",
-      "ESG and Sustainability Services",
-      "Governance and Compliance",
+      "ESG and sustainability services",
+      "Governance and compliance",
     ],
   },
   {
     title: "Real estate",
     description:
-      "We specialize in building and selling of reliable houses employing affordable technologies to meet customer satisfaction.",
+      "We specialize in building and selling of reliable houses by employing affordable technologies to meet customer satisfaction.",
     image:
       "https://victoriacresthomes.ng/wp-content/uploads/2023/10/IMG-20231019-WA0001-758x564.jpg",
     items: [
-      "In-Dept Quantity surveying and Land usage advice",
+      "Quantity surveying",
       "Proper housing scheme",
-      "Reliable Home Management partnerships",
+      "Home management services",
+      "Land usage advice",
     ],
   },
   {
@@ -34,24 +35,31 @@ const servicesData = [
     image:
       "https://cdn.guardian.ng/wp-content/uploads/2023/09/Seaport-1062x598.jpg",
     items: [
+      "Procurement",
+      "Terminal leasing",
       "Marine logistics",
       "Freight and ship management",
       "Port and terminal management",
-      "Freight forwarding and custom clearance",
+      "Freight forwarding",
+      "Custom clearance",
     ],
   },
   {
     title: "Commerce",
     description: "",
     image: "https://i.postimg.cc/SQnNKDX5/haydn-ZT3i-6-XW8-J8-unsplash.jpg",
-    items: ["import", "export", "trade services"],
+    items: ["Import", "Export", "Trade services"],
   },
   {
     title: "Infrastructure",
     description: "",
     image:
       "https://i.postimg.cc/FHWj0TZS/Screen-Shot-2025-05-22-at-9-29-04-AM.png",
-    items: ["Road and Train tracks construction", "Pipeborne Services"],
+    items: [
+      "Road Construction",
+      "Pipeborne Services",
+      "Train tracks construction",
+    ],
   },
 ];
 

@@ -32,6 +32,12 @@ const boardOfDirectorsData = [
     name: "Mr. Nnamdi Okoli",
     role: "Head of Operations",
   },
+  {
+    photo:
+      "https://i.postimg.cc/5y3Tq8zn/Whats-App-Image-2025-06-04-at-15-07-23.jpg",
+    name: "Engr Alex Clement Aweh (MNIOB)",
+    role: "Director of operations",
+  },
 ];
 
 const BoardOfDirectors = () => {
